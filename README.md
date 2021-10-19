@@ -1,6 +1,5 @@
-# 4nxci-GUI
 
-<h1>GUI for: https://github.com/The-4n/4NXCI</h1>
+<h2># GUI exclusively to work with https://github.com/The-4n/4NXCI</h2>
 
 ![Screenshot from 2021-10-19 11-50-58](https://user-images.githubusercontent.com/59517785/137888926-82a3f57f-2660-40b5-85e2-714a3ab67734.png)
 
