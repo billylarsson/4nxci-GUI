@@ -10,4 +10,4 @@ Copy your own keys.txt to the root folder or point the GUI to the location were 
 
 I made this GUI for personal use, I use Linux only and I have no idea what happens if you try this GUI on another operating system, though I guess it should work...its nothing fancy at all, it just starts a subprocess as if you were using the commandline so to speak.
 
-Be extra careful where you point the "WORKING FOLDER" since the 4nxci will delete the entire directory after usage, even if it coulnt complete the process!
+Be extra careful where you point the "WORKING FOLDER" since the 4NXCI will delete the entire directory after usage (The program does this, not the GUI), even if it coulnt complete the process!
