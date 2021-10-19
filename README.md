@@ -3,7 +3,7 @@
 
 This is a GUI made for: https://github.com/The-4n/4NXCI
 
-I strongly encourage you to make your own compiled binary of the executable and point the GUI to use your own version.
+<h3>I strongly encourage you to make your own compiled binary of the executable and point the GUI to use your own version.</h3>
 
 You'll find a precompiled Linux-version of 4nxci in the root folder and the GUI should find it. 
 Copy your own keys.txt to the root folder or point the GUI to the location were you have them stored.
